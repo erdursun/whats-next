@@ -54,8 +54,9 @@
     max-width: 960px;
     flex-direction: column;
     align-items: center;
-    /* Background from url */
+    /* Background from url 
     background-image: url("https://wallpaperaccess.com/full/3596380.jpg");
+    */
     width: 1280px;
     height: 1024px;
     background-size: cover;
@@ -272,49 +273,4 @@
     left: -230px;
     z-index: -10;
     width: 1920px;
-  }
-
-  .whats-table{
-    border-collapse: collapse;
-    width: 100%;
-    height: 100%;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    text-align: center;
-    font-size: 14px;
-    font-family: 'Roboto', sans-serif;
-    font-weight: 300;
-    color: #000;
-    align-items: center;
-    justify-content: center;
-  }
-
-  .whats-table-tr{
-    border-collapse: collapse;
-    width: 100%;
-    height: 100%;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    text-align: center;
-    font-size: 14px;
-    font-family: 'Roboto', sans-serif;
-    font-weight: 300;
-    color: #000;
-    align-items: center;
-    justify-content: center;
-  }
-
-  .whats-table-td{
-    border-collapse: collapse;
-    width: 100%;
-    height: 100%;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    text-align: center;
-    font-size: 14px;
-    font-family: 'Roboto', sans-serif;
-    font-weight: 300;
-    color: #000;
-    align-items: center;
-    justify-content: center;
   }
