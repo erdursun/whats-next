@@ -54,9 +54,8 @@
     max-width: 960px;
     flex-direction: column;
     align-items: center;
-    /* Background from url 
+    /* Background from url */
     background-image: url("https://wallpaperaccess.com/full/3596380.jpg");
-    */
     width: 1280px;
     height: 1024px;
     background-size: cover;
@@ -182,7 +181,7 @@
     background-color: rgb(15, 15, 16);
     opacity: 0.9;
     font-size: 24px;
-    /*font-family: 'Roboto', sans-serif;*/
+    font-family: 'Roboto', sans-serif;
     font-weight: 300;
 
   }
@@ -204,7 +203,7 @@
   }
 
   .terminal pre {
-    /*font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;*/
+    font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
     color: white;
     padding: 0 1rem 1rem;
     margin: 0;
